@@ -1,4 +1,4 @@
-# Deploy an ERC-20 token on Scroll L2 using Harhat 
+# Deploy an ERC-20 token on Scroll L2 using Hardhat 
 
 This simple project shows you how to deploy an ERC-20 token on the Scroll L2 testnet using HardHat. Scroll is a new and emerging EVM compatible zero knowledge rollup blockchain aimed at improving Ethereum scalability and reducing costs. 
 
