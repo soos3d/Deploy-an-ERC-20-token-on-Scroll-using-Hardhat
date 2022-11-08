@@ -4,6 +4,13 @@ This simple project shows you how to deploy an ERC-20 token on the Scroll L2 tes
 
 ## Table of contents
 
+ - [Prerequisites](#prerequisites)
+  - [Quickstart](#quickstart)
+  - [Create a Hardhat project](#create-a-hardhat-project)
+  - [The smart contract](#the-smart-contract)
+  - [Deploy the smart contract](#deploy-the-smart-contract)
+    - [Configure the Hardhat project](#configure-the-hardhat-project)
+  - [Conclusion](#conclusion)
 
 ## Prerequisites
 
